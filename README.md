@@ -4,7 +4,7 @@
 
 ## About 
 
-
+We created an Enumerable module. We used a class named `MyList`.
 
 ## Built With
 
